@@ -6,7 +6,7 @@ from telegram import Update, ParseMode
 from telegram.ext import Updater, MessageHandler, Filters, CallbackContext
 
 # Ganti "TOKEN_BOT_ANDA" dengan token bot Telegram Anda
-TOKEN = "6036842976:AAGoW93OFWdSxkLmMS4LfBhBmdyt7mt9lT8"
+TOKEN = "6063005347:AAEtWgNbKVQfzSVZtJZKUDz46CubzqkMy1A"
 
 # Daftar status verifikasi
 WAITING_FOR_VERIFICATION = 1
